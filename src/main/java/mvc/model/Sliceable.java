@@ -9,7 +9,6 @@ public interface Sliceable {
 
     /**
      * Position getter.
-     *
      * @return position
      */
     Point2D getPosition();
